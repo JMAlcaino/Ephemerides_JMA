@@ -1,2 +1,2 @@
 # Ephemerides_JMA
-Program to try fonctions in pyehem module with datetime module
+Program to try fonctions in the pyehem module with the datetime module
